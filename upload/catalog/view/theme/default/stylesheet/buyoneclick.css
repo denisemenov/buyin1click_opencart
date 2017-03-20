@@ -1,0 +1,30 @@
+#order .modal-content {
+	border: 0px solid #ffffff;
+	background: #006699;
+	background: -webkit-gradient(linear, left top, left bottom, from(#3399cc), to(#006699));
+	background: -webkit-linear-gradient(top, #3399cc, #006699);
+	background: -moz-linear-gradient(top, #3399cc, #006699);
+	background: -ms-linear-gradient(top, #3399cc, #006699);
+	background: -o-linear-gradient(top, #3399cc, #006699);
+	background-image: -ms-linear-gradient(top, #3399cc 0%, #006699 100%);
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+	-webkit-box-shadow: rgba(000,000,000,0.9) 0 0px 2px, inset rgba(255,255,255,0.4) 0 0px 0;
+	-moz-box-shadow: rgba(000,000,000,0.9) 0 0px 2px, inset rgba(255,255,255,0.4) 0 0px 0;
+	box-shadow: rgba(000,000,000,0.9) 0 0px 2px, inset rgba(255,255,255,0.4) 0 0px 0;
+	font-family: 'Helvetica Neue',Helvetica,sans-serif;	
+	color:#fff;
+}
+#order button {
+    color: #000;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+#order h2, #order h3, #order h4, #order h5 {
+    text-shadow: 1px 1px 0 #000;
+    color: #fff;
+    margin-top: 0;
+    font-weight: bold;
+    text-align: center;
+}
